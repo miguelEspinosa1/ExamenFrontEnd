@@ -1,6 +1,6 @@
 import ReactDOM from "react-dom";
 import React, { Component } from 'react'
-import '../index.css'
+import '../Styles/index.css'
 
 export default class GeneradorDeHistoria extends Component {
   constructor(props) {

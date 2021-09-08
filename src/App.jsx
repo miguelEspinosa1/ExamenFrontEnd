@@ -2,7 +2,7 @@
 import React, { Component } from 'react'
 
 import historia from "./components/data.json"
-import "./index.css"
+import "./Styles/index.css"
 import GeneradorDeHistoria from './components/Historiador';
 
 export default class App extends Component {
